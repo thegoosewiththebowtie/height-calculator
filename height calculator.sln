@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "height calculator", "height calculator\height calculator.csproj", "{C43D8358-814C-4FBA-8C4E-1801C1E5ACCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43D8358-814C-4FBA-8C4E-1801C1E5ACCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43D8358-814C-4FBA-8C4E-1801C1E5ACCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43D8358-814C-4FBA-8C4E-1801C1E5ACCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43D8358-814C-4FBA-8C4E-1801C1E5ACCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED7E3AB8-30D1-4DB1-A3F8-695D7355FEEA}
+	EndGlobalSection
+EndGlobal
